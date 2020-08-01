@@ -1,0 +1,22 @@
+{
+  "name": "wild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@vk-io/scenes": "0.0.0-alpha.5",
+    "@vk-io/session": "0.0.0-alpha.3",
+    "express": "^4.17.1",
+    "express-glitch-keepalive": "^0.2.0",
+    "middleware-io": "^0.0.7",
+    "mysql": "^2.18.1",
+    "prequest": "^1.0.0",
+    "request-promise": "^4.2.5",
+    "vk-io": "^4.0.0-rc.30",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "author": "Degradin"
+}
