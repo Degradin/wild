@@ -4356,6 +4356,6 @@ async function run() {
 	for(let i in rpg.users){
     let user = rpg.users[i]
 		}
-	}
+	}.listen(process.env.PORT) 
 	updateWidget()
 vk.updates.start().catch(console.error);
