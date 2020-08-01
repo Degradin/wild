@@ -17,7 +17,6 @@ const weapons = require("./base/weapons.json");
 const sets = require("./base/sets.json");
 const mobs = require("./base/mobs.json");
 const uid = require("./base/uid.json");
-const apibot = require("./setting/api.json");
 const express = require('express');
 
 setInterval(function(){
