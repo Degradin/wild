@@ -3,7 +3,7 @@
 		"1": {
 			"chat": 6,
 			"ban": false,
-			"gold": 0,
+			"gold": 10000,
 			"diamond": 0,
 			"card": 0,
 			"lvl": 1,
@@ -11,16 +11,16 @@
 			"rang": 1,
 			"points": 1,
 			"exp": 0,
-			"prefix": "Test",
+			"prefix": "Degradin",
 			"id": 270911031,
 			"aid": 1,
-			"heroid": "6",
+			"heroid": 6,
 			"class": "Божество",
 			"hp": 20,
-			"defence": 6,
-			"damage": 9,
+			"defence": 1,
+			"damage": 1,
 			"limits": {
-				"bonus": "first",
+				"bonus": false,
 				"war": false,
 				"travel": false,
 				"pvewar": false,
@@ -41,10 +41,22 @@
 			},
 			"clan": false,
 			"registered": true,
-			"inventory": {},
+			"inventory": {
+				"1": {
+					"name": "Рыцарские доспехи",
+					"id": 1,
+					"itemtype": "Сет",
+					"itemtype_n": 2,
+					"level": 6,
+					"count": 11,
+					"rarity": "Обычный",
+					"class": "Воин",
+					"price": 500
+				}
+			},
 			"inv_slots": 10,
-			"inv_empty": 1,
-			"items": 0,
+			"inv_empty": 2,
+			"items": 1,
 			"res": {
 				"stone": 0,
 				"wood": 0
@@ -76,15 +88,12 @@
 			"kbd": false,
 			"rolls": 0,
 			"set": {},
-			"rtime": "23:52 | 02.05.2019",
 			"usid": "degradin",
 			"sex": "2",
-			"impdamage": 0,
-			"impdefence": 0,
-			"improvetime": 0
+			"bonustime": 0
 		},
 		"2": {
-			"chat": 91,
+			"chat": 6,
 			"ban": false,
 			"gold": 0,
 			"diamond": 0,
@@ -94,14 +103,14 @@
 			"rang": 1,
 			"points": 1,
 			"exp": 0,
-			"prefix": "Ульяна",
-			"id": 162007396,
+			"prefix": "Руся",
+			"id": 464529846,
 			"aid": 2,
 			"heroid": false,
 			"class": "Человек",
 			"hp": 20,
-			"defence": 6,
-			"damage": 6,
+			"defence": 1,
+			"damage": 1,
 			"limits": {
 				"bonus": "first",
 				"war": false,
@@ -159,13 +168,1115 @@
 			"kbd": false,
 			"rolls": 0,
 			"set": {},
-			"rtime": "00:20 | 03.05.2019",
-			"usid": "olivieyana",
-			"sex": "1",
-			"impdamage": 0,
-			"impdefence": 0,
-			"improvetime": 0
+			"usid": "ururusya",
+			"sex": "2"
+		},
+		"3": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Ангелина",
+			"id": 262195158,
+			"aid": 3,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "ang_gusar",
+			"sex": "1"
+		},
+		"4": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Elvira",
+			"id": 497759261,
+			"aid": 4,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "ighth_wonder_of_ligh",
+			"sex": "1"
+		},
+		"5": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Александра",
+			"id": 233531036,
+			"aid": 5,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "darkforestwolf",
+			"sex": "1"
+		},
+		"6": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Никита",
+			"id": 421770695,
+			"aid": 6,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "csvetercs",
+			"sex": "2"
+		},
+		"7": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Евгения",
+			"id": 512011348,
+			"aid": 7,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "moonshine90",
+			"sex": "1"
+		},
+		"8": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Andrey",
+			"id": 293085186,
+			"aid": 8,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "lesnoyeshowyt",
+			"sex": "2"
+		},
+		"9": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Яна",
+			"id": 424338614,
+			"aid": 9,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "potsepun5",
+			"sex": "1"
+		},
+		"10": {
+			"chat": 8,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Арсений",
+			"id": 442249868,
+			"aid": 10,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "prostoy_chelove4ek",
+			"sex": "2"
+		},
+		"11": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Алина",
+			"id": 551163230,
+			"aid": 11,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "id551163230",
+			"sex": "1"
+		},
+		"12": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Danil",
+			"id": 523848305,
+			"aid": 12,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "dudmbub",
+			"sex": "2"
+		},
+		"13": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Александра",
+			"id": 495414555,
+			"aid": 13,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "4ydik_b_nepb9lx",
+			"sex": "1"
+		},
+		"14": {
+			"chat": 1,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Иван",
+			"id": 426488731,
+			"aid": 14,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "love_xo5",
+			"sex": "2"
+		},
+		"15": {
+			"chat": 18,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Алтын",
+			"id": 236198970,
+			"aid": 15,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "id.mukha",
+			"sex": "2"
+		},
+		"16": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Даниил",
+			"id": 391971330,
+			"aid": 16,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 1,
+			"damage": 1,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"usid": "shofer228",
+			"sex": "2"
 		}
 	},
-	"number": 9
+	"number": 16
 }

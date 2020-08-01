@@ -934,7 +934,7 @@ if(context.forwards[0]) {
 if(context.hasReplyMessage) {
 	let ids = user_id(context.replyMessage.senderId);
     let ASS1 = context.replyMessage.senderId
-    if(ASS1 == -191251686) return context.send(`Refused`)
+    if(ASS1 == -184999488) return context.send(`Refused`)
     if(!rpg.users[ids]) context.send("Данный пользователь не зарегистрирован!")
     return context.send(`VK ID: *id${context.replyMessage.senderId} (${context.replyMessage.senderId}) | GAME ID: *id${context.replyMessage.senderId} (${ids})`);
 }

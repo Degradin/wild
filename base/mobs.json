@@ -146,5 +146,149 @@
 		"pic": null,
 		"description": "Нет данных."
 	},
-	"number": 16
+	"17": {
+		"name": "Образец Сгустившегося Тумана",
+		"damage": 2,
+		"hp": 2,
+		"type": "2",
+		"element": "2",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"18": {
+		"name": "Дерзкая Диверсантка",
+		"damage": 2,
+		"hp": 1,
+		"type": "2",
+		"element": "2",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"19": {
+		"name": "Небесный Хищник",
+		"damage": 3,
+		"hp": 4,
+		"type": "9",
+		"element": "2",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"20": {
+		"name": "Неуловимый Колдовской Боец",
+		"damage": 1,
+		"hp": 3,
+		"type": "2",
+		"element": "2",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"21": {
+		"name": "Мстительница Окетры",
+		"damage": 3,
+		"hp": 1,
+		"type": "2",
+		"element": "1",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"22": {
+		"name": "Проводник Козилека",
+		"damage": 4,
+		"hp": 4,
+		"type": "1",
+		"element": "3",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"23": {
+		"name": "Илистый Ползун",
+		"damage": 1,
+		"hp": 1,
+		"type": "1",
+		"element": "3",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"24": {
+		"name": "Наемный Головорез",
+		"damage": 3,
+		"hp": 2,
+		"type": "2",
+		"element": "3",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"25": {
+		"name": "Некраталь",
+		"damage": 2,
+		"hp": 1,
+		"type": "2",
+		"element": "3",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"26": {
+		"name": "Лилиана, Целитель-Еретик",
+		"damage": 8,
+		"hp": 8,
+		"type": "2",
+		"element": "3",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"27": {
+		"name": "Пастырь Кошмаров",
+		"damage": 6,
+		"hp": 6,
+		"type": "5",
+		"element": "3",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"28": {
+		"name": "Опытный Пиромант",
+		"damage": 2,
+		"hp": 2,
+		"type": "2",
+		"element": "4",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"29": {
+		"name": "Маг-Душегубитель",
+		"damage": 1,
+		"hp": 2,
+		"type": "2",
+		"element": "4",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"30": {
+		"name": "Тибальт, Распутный Подстрекатель",
+		"damage": 11,
+		"hp": 7,
+		"type": "2",
+		"element": "4",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"31": {
+		"name": "Саблекрылая Верикс",
+		"damage": 4,
+		"hp": 4,
+		"type": "9",
+		"element": "4",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"32": {
+		"name": "Латлисс, Королева Драконов",
+		"damage": 9,
+		"hp": 9,
+		"type": "9",
+		"element": "4",
+		"pic": null,
+		"description": "Нет данных."
+	},
+	"number": 32
 }

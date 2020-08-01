@@ -1,11 +1,14 @@
 {
-	"element": 0,
+	"element": 2,
 	"mobs": {
 		"total": 100,
-		"killed": 0
+		"killed": 58
 	},
 	"bonehoard": {
 		"starthp": 100,
-		"gainhp": 0
+		"gainhp": 126,
+		"hp": 226,
+		"level": 9,
+		"exp": 2
 	}
 }
