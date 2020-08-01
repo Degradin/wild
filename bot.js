@@ -18,18 +18,15 @@ const sets = require("./base/sets.json");
 const mobs = require("./base/mobs.json");
 const uid = require("./base/uid.json");
 const express = require('express');
+const app = express();
 
-var app = express();
-app.use(express.logger());
-
-app.get('/', function(request, response) {
-  response.send('Hello World!');
+app.get('/', (req, res) => {
+res.json ("./wild");
 });
-
-var port = process.env.PORT || 5000;
-app.listen(port, function() {
-  console.log("Listening on " + port);
+app.get("/", (request, response) => {
+response.sendStatus(200);
 });
+app.listen(process.env.PORT)
 
 setInterval(function(){
 	fs.writeFileSync("./base/world.json", JSON.stringify(world, null, "\t"))
