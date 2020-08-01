@@ -27,7 +27,6 @@ setInterval(function(){
 	fs.writeFileSync("./base/weapons.json", JSON.stringify(weapons, null, "\t"))
 	fs.writeFileSync("./base/sets.json", JSON.stringify(sets, null, "\t"))
 	fs.writeFileSync("./base/mobs.json", JSON.stringify(mobs, null, "\t"))
-  fs.writeFileSync("./setting/config.json", JSON.stringify(config, null, "\t"))
 }, 5000);
 
 //------------------------------------------------------------------------------------\\
