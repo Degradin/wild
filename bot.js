@@ -19,6 +19,18 @@ const mobs = require("./base/mobs.json");
 const uid = require("./base/uid.json");
 const express = require('express');
 
+var app = express();
+app.use(express.logger());
+
+app.get('/', function(request, response) {
+  response.send('Hello World!');
+});
+
+var port = process.env.PORT || 5000;
+app.listen(port, function() {
+  console.log("Listening on " + port);
+});
+
 setInterval(function(){
 	fs.writeFileSync("./base/world.json", JSON.stringify(world, null, "\t"))
 	fs.writeFileSync("./base/rpg_acc.json", JSON.stringify(rpg, null, "\t"))
@@ -4356,6 +4368,6 @@ async function run() {
 	for(let i in rpg.users){
     let user = rpg.users[i]
 		}
-	}.listen(process.env.PORT) 
+	}
 	updateWidget()
 vk.updates.start().catch(console.error);
