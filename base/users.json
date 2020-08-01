@@ -1,0 +1,36 @@
+{
+	"1": {
+		"Nick": "Test",
+		"Prefix": "System",
+		"Class": "X",
+		"Dostup": 0,
+		"HP": 100,
+		"DMG": 100,
+		"Level": 200,
+		"Exp": 33,
+		"Points": 100,
+		"Rang": 5,
+		"Gold": 100,
+		"Wilds": 0,
+		"ResKey": 10,
+		"ItemKey": 10,
+		"registered": "2020-01-01"
+	},
+	"270911031": {
+		"Nick": "Макс",
+		"Prefix": "Игрок",
+		"Class": "Душа",
+		"Dostup": 0,
+		"HP": 10,
+		"DMG": 1,
+		"Level": 0,
+		"Exp": 0,
+		"Points": 10,
+		"Rang": 0,
+		"Gold": 100,
+		"Wilds": 0,
+		"ResKey": 10,
+		"ItemKey": 10,
+		"registered": "2020-07-27"
+	}
+}
