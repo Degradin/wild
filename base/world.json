@@ -1,0 +1,11 @@
+{
+	"element": 0,
+	"mobs": {
+		"total": 100,
+		"killed": 0
+	},
+	"bonehoard": {
+		"starthp": 100,
+		"gainhp": 0
+	}
+}

@@ -1,4 +1,171 @@
 {
-	"users": {},
-	"number": 0
+	"users": {
+		"1": {
+			"chat": 6,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 2,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Test",
+			"id": 270911031,
+			"aid": 1,
+			"heroid": "6",
+			"class": "Божество",
+			"hp": 20,
+			"defence": 6,
+			"damage": 9,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": true,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"rtime": "23:52 | 02.05.2019",
+			"usid": "degradin",
+			"sex": "2",
+			"impdamage": 0,
+			"impdefence": 0,
+			"improvetime": 0
+		},
+		"2": {
+			"chat": 91,
+			"ban": false,
+			"gold": 0,
+			"diamond": 0,
+			"card": 0,
+			"lvl": 1,
+			"level": 0,
+			"rang": 1,
+			"points": 1,
+			"exp": 0,
+			"prefix": "Ульяна",
+			"id": 162007396,
+			"aid": 2,
+			"heroid": false,
+			"class": "Человек",
+			"hp": 20,
+			"defence": 6,
+			"damage": 6,
+			"limits": {
+				"bonus": "first",
+				"war": false,
+				"travel": false,
+				"pvewar": false,
+				"build": false,
+				"id": false,
+				"up": false
+			},
+			"skill": {},
+			"weapon": {},
+			"objects": {
+				"lesopilka": 0,
+				"kamenolom": 0,
+				"gold": 0,
+				"hp": false,
+				"def": false,
+				"dmg": false,
+				"skill": false
+			},
+			"clan": false,
+			"registered": false,
+			"inventory": {},
+			"inv_slots": 10,
+			"inv_empty": 1,
+			"items": 0,
+			"res": {
+				"stone": 0,
+				"wood": 0
+			},
+			"reskey": 0,
+			"itemkey": 0,
+			"weaponwear": false,
+			"setwear": false,
+			"temp": {
+				"hp": 0,
+				"damage": 0
+			},
+			"enemyid": false,
+			"enemy": {},
+			"kills": {
+				"pve": {
+					"total": 0,
+					"today": 0
+				},
+				"pvp": {
+					"total": 0,
+					"today": 0
+				}
+			},
+			"die": {
+				"pve": 0,
+				"pvp": 0
+			},
+			"kbd": false,
+			"rolls": 0,
+			"set": {},
+			"rtime": "00:20 | 03.05.2019",
+			"usid": "olivieyana",
+			"sex": "1",
+			"impdamage": 0,
+			"impdefence": 0,
+			"improvetime": 0
+		}
+	},
+	"number": 9
 }
