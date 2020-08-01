@@ -17,7 +17,6 @@ const weapons = require("./base/weapons.json");
 const sets = require("./base/sets.json");
 const mobs = require("./base/mobs.json");
 const uid = require("./base/uid.json");
-const config = require("./setting/config.json")
 const apibot = require("./setting/api.json");
 const express = require('express');
 
@@ -25,7 +24,7 @@ setInterval(function(){
 	fs.writeFileSync("./base/world.json", JSON.stringify(world, null, "\t"))
 	fs.writeFileSync("./base/rpg_acc.json", JSON.stringify(rpg, null, "\t"))
 	fs.writeFileSync("./base/uid.json", JSON.stringify(uid, null, "\t"))
-  fs.writeFileSync("./base/rpromos.json", JSON.stringify(rpcode, null, "\t")) 
+  fs.writeFileSync("./base/rpromos.json", JSON.stringify(rpcode, null, "\t"))
 	fs.writeFileSync("./base/weapons.json", JSON.stringify(weapons, null, "\t"))
 	fs.writeFileSync("./base/sets.json", JSON.stringify(sets, null, "\t"))
 	fs.writeFileSync("./base/mobs.json", JSON.stringify(mobs, null, "\t"))
