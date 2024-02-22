@@ -1,8 +1,8 @@
 const { VK, Keyboard } = require('vk-io');
 const vk = new VK({
 	appId: 7473811,
-	appSecret: "VXsfCCEtcR0wQL3w2Y92",
-	token: "3a8bcc92f3f741592310d92ab5ed7e3d365f128733ef90c289525be20ad4da918d4e675043eb0e4fc92e2",
+	appSecret: "",
+	token: "",
 	apiMode: "parallel",
 	pollingGroupId: 184999488
 });
